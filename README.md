@@ -1,3 +1,9 @@
+Got the data from https://schedule1-calculator.com/ so go support them if you like.
+
+I think OGKush + MouthWash + Banana + Cuke ([AntiGravity, Balding, ThoughtProvoking, Energizing]): $87.5 - $10.5 = $77.0 is the best because it is available early and its selling price is low, which may help selling but I'm not sure.
+
+Here are all 3 mix weed recipes ranked by net profit (assuming 12 crops per seed):
+
 ```
 OGKush + MegaBean + Banana + Cuke ([Glowing, Cyclopean, ThoughtProvoking, Energizing]): $94.5 - $13.5 = $81.0
 OGKush + Viagra + MegaBean + Cuke ([Glowing, TropicThunder, Cyclopean, Energizing]): $95.2 - $15.5 = $79.7
